@@ -7,6 +7,10 @@ body {
     background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
     flex-direction: column;
+    background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2llNnJtaXFkdWEweTE4enFkemNtc3pnb2RzNWtjMHBmczlpMXByYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAF2NDkBi5OdW/giphy.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
   
   .container {
